@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861206685552",
+    "project_id": "androidstudio-2754e",
+    "storage_bucket": "androidstudio-2754e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861206685552:android:03ac2d789e3e349bea91b5",
+        "android_client_info": {
+          "package_name": "com.giselle.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFuxtioQWo8QgNkaUOp0GO9ij2B4YW0g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
